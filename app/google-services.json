@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "78135597486",
+    "firebase_url": "https://realtimedatabaseupdate-270b1-default-rtdb.firebaseio.com",
+    "project_id": "realtimedatabaseupdate-270b1",
+    "storage_bucket": "realtimedatabaseupdate-270b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78135597486:android:06e0ed68b8bd398606103f",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabase_update"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78135597486-43fuim5j2cuujpqde63eu0003pnegbmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvqmDPc-l0e0UDS8pLLSqISB6g8uOmIZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78135597486-43fuim5j2cuujpqde63eu0003pnegbmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
